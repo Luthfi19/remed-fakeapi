@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "nama": "ida",
+      "usia": "21",
+      "pekerjaan": "chef",
+      "id": 5
+    },
+    {
+      "nama": "tulus",
+      "usia": "22",
+      "pekerjaan": "supir",
+      "id": 6
+    },
+    {
+      "nama": "bani",
+      "usia": "33",
+      "pekerjaan": "kuli",
+      "id": 7
+    }
+  ]
+}
